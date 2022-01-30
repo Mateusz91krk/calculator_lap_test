@@ -25,6 +25,7 @@ public class Main {
         System.out.println("Division:");
         System.out.println(number + " / " + number1 + " = " + (number/number1));
         System.out.println("or\n" + number1 + " / " + number + " = " + (number1/number));
+        System.out.println("The End");
 
     }
 }
